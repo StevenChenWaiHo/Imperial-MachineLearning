@@ -1,2 +1,2 @@
-# Imperial-MachineLearning
-Imperial-MachineLearning
+# MachineLearningLab
+MachineLearningLab
